@@ -1,0 +1,8 @@
+flask
+flask-smorest 
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+feedparser
+goose3
+openai==0.28
